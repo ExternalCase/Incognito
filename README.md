@@ -5,6 +5,7 @@ Al instalar Termux en tu móvil, dispondrás de un emulador de terminal para And
 - Esta herramienta te ahorrará el trabajo de instalar cada paquete y personaliza tu termux con un banner que tu elijas
 
 # Solo para uso en Termux
+![sh](https://i.postimg.cc/nrLWGFtn/127211303-1023995638105081-3852285492529530473-n.jpg)
 
 # Instalación
 - apt update && pkg upgrade -y
@@ -21,4 +22,5 @@ Al instalar Termux en tu móvil, dispondrás de un emulador de terminal para And
 - [4] Salir
 
 Hecho por monkey-hk4 :?  /incógnito
+
 
